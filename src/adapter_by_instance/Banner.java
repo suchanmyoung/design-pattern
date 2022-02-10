@@ -1,4 +1,4 @@
-package AdapterByClass;
+package adapter_by_instance;
 
 public class Banner {
     private String string;

@@ -1,4 +1,4 @@
-package AdapterByInstance;
+package adapter_by_instance;
 
 public class PrintBanner extends Print {
     private Banner banner;
