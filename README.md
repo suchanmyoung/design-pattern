@@ -1,4 +1,5 @@
 ### Java 언어로 배우는 디자인 패턴 입문 - 유키 히로시
+##### 본 Repository는 해당 서적을 학습한 내용을 정리한 개인 학습용 공간입니다.
 * iterator - 순서대로 지정해서 처리하기
   * Iterator의 역할 : 요소를 순서대로 검색해가는 API를 결정
   * ConcreteIterator(구체적인 반복자)의 역할 : Iterator가 결정한 API를 구현
